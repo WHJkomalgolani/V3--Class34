@@ -2,6 +2,8 @@
 Youtube link:
 https://youtu.be/phGSX8gCPcs
 
+https://youtu.be/Hq7KGsfkq5I
+
 Note: There is a bug in the code. Player should always first opt for blower star and then for normal star.
 So we have modified the pdf code as below(line 177 to line 191):
 
